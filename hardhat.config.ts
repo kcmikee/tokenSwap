@@ -16,7 +16,7 @@ module.exports = {
     // for testnet
     "lisk-sepolia": {
       url: process.env.LISK_RPC_URL!,
-      accounts: [process.env.ACCOUNT_PRIVATE_KEY!],
+      accounts: [ACCOUNT_PRIVATE_KEY!],
       gasPrice: 1000000000,
     },
   },
