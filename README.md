@@ -46,7 +46,7 @@ This project uses Hardhat as the development environment. The configuration supp
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd tokenswap-project
+   cd tokenswap
    ```
 
 2. Install dependencies:
